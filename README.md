@@ -8,8 +8,8 @@ Tensorflow 2.5.0
 
 Keras 2.5.0
 
-<img src="Peek 2022-06-13 14-39.gif " width="40" height="40" />
+<img src="Peek 2022-06-13 14-39.gif " />
 
-<img src="Peek 2022-06-13 13-32.gif " width="40" height="40" />
+<img src="Peek 2022-06-13 13-32.gif " />
 
 
